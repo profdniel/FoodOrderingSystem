@@ -1,0 +1,30 @@
+C001,Ahmad Zulkifli,0123456789,ahmad.zulkifli@gmail.com,O001,2025-01-12 12:00,complete,Nasi Lemak,12.00,cash
+C002,Siti Nurhaliza,0987654321,siti.nurhaliza@gmail.com,O002,2025-01-12 12:30,pending,Char Kway Teow,15.00,credit card
+C003,Muhammad Hafiz,0112233445,muhammad.hafiz@yahoo.com,O003,2025-01-12 13:00,complete,Nasi Lemak,10.00,online transfer
+C004,Zainab Abdullah,0223344556,zainab.abdullah@outlook.com,O004,2025-01-12 13:15,complete,Satay,18.00,credit card
+C005,Lim Beng Hock,0334455667,lim.benghock@gmail.com,O005,2025-01-12 14:00,cancel,Char Kway Teow,7.50,cash
+C006,Noor Fatimah,0445566778,noor.fatimah@hotmail.com,O006,2025-01-12 14:30,pending,Roti Canai,9.00,online transfer
+C007,Ravi Kumar,0556677889,ravi.kumar@gmail.com,O007,2025-01-12 15:00,complete,Keropok Lekor,5.00,cash
+C008,Tan Mei Ling,0667788990,tan.meiling@yahoo.com,O008,2025-01-12 15:15,complete,Keropok Lekor,6.50,credit card
+C009,Chong Wei,0778899001,chong.wei@outlook.com,O009,2025-01-12 16:00,complete,Char Kway Teow,10.50,online transfer
+C010,Nurul Ain,0889900112,nurul.ain@gmail.com,O010,2025-01-12 16:30,cancel,Nasi Lemak,12.00,credit card
+C011,Azman Latif,0990011223,azman.latif@gmail.com,O011,2025-01-12 17:00,pending,Roti Canai,8.20,cash
+C012,Aisyah Rahman,0101122334,aisyah.rahman@yahoo.com,O012,2025-01-12 17:15,complete,Satay,19.00,online transfer
+C013,Nagarajan Raj,0111233445,nagarajan.raj@gmail.com,O013,2025-01-12 18:00,pending,Keropok Lekor,4.50,credit card
+C014,Liew Hong,0122233445,liew.hong@gmail.com,O014,2025-01-12 18:30,complete,Char Kway Teow,14.30,cash
+C015,Farid Ismail,0133344556,farid.ismail@hotmail.com,O015,2025-01-12 19:00,cancel,Roti Canai,7.00,online transfer
+C016,Sarah Zahira,0144455667,sarah.zahira@gmail.com,O016,2025-01-12 19:15,complete,Satay,11.00,credit card
+C017,Teo Kian Seng,0155566778,teo.kianseng@yahoo.com,O017,2025-01-12 20:00,complete,Keropok Lekor,5.50,online transfer
+C018,Rosnah Daud,0166677889,rosnah.daud@gmail.com,O018,2025-01-12 20:30,pending,Keropok Lekor,6.70,cash
+C019,Hisham Mokhtar,0177788990,hisham.mokhtar@outlook.com,O019,2025-01-12 21:00,complete,Char Kway Teow,15.00,credit card
+C020,Lee Choon Wah,0188899001,lee.choonwah@gmail.com,O020,2025-01-12 21:30,cancel,Roti Canai,9.00,online transfer
+C021,Ahmad Bakri,0199900112,ahmad.bakri@gmail.com,O021,2025-01-12 22:00,complete,Nasi Lemak,12.50,cash
+C022,Nur Syafiqah,0200011223,nur.syafiqah@gmail.com,O022,2025-01-12 22:30,pending,Nasi Lemak,10.60,credit card
+C023,Roslan Hamid,0211122334,roslan.hamid@yahoo.com,O023,2025-01-12 23:00,complete,Char Kway Teow,8.00,online transfer
+C024,Amira Hassan,0222233445,amira.hassan@gmail.com,O024,2025-01-12 23:15,complete,Keropok Lekor,7.50,cash
+C025,Wan Fariz,0233344556,wan.fariz@outlook.com,O025,2025-01-12 23:30,complete,Satay,15.00,credit card
+C026,Chee Yin,0244455667,chee.yin@gmail.com,O026,2025-01-12 23:45,cancel,Keropok Lekor,5.00,online transfer
+C027,Fatimah Yaakob,0255566778,fatimah.yaakob@yahoo.com,O027,2025-01-13 00:00,complete,Char Kway Teow,13.00,cash
+C028,Singh Amarjit,0266677889,singh.amarjit@gmail.com,O028,2025-01-13 00:15,pending,Keropok Lekor,7.00,credit card
+C029,Noor Hafizah,0277788990,noor.hafizah@gmail.com,O029,2025-01-13 00:30,complete,Roti Canai,9.50,online transfer
+C030,Zamri Nasir,0288899001,zamri.nasir@gmail.com,O030,2025-01-13 01:00,complete,Satay,20.00,cash
